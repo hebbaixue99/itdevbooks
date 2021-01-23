@@ -10,7 +10,7 @@
 
 # 书籍分了40多个技术大类
 
-## C
+## C 语言
 21天学通c++第7版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Pv45msRWe0sCurOM9RR9uQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：qvdj  
 
 C++ Primer Plus（第6版）_中文版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1EVlg9WH-6kJjmjjTjaty0Q)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：wsfu  
@@ -80,7 +80,8 @@ Linux操作系统下C语言编程入门.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
 自制编程语言基于C语言.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1vk5rAD2pAscURdISdhR2ig)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：ybqh  
 
 
-## C#
+## C# 语言
+
 ## Docker
 ## Elasticsearch
 ## Git
