@@ -122,3 +122,17 @@ Linux操作系统下C语言编程入门.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
 ## 设计模式
 ## 软件测试
 ## 重构优化
+
+Java虚拟机并发编程.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1MBwYNHEVuOq-V1FpPq7tfw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：texj  
+
+编程之美-.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1trz5QH73sRboEDtQjPtEJQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：mawq  
+
+大神手把手教你Java性能优化-江南白衣（加强版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1lSGEI4vD4moEV3Uzcg_rkw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：ucrd  
+
+代码大全2中文版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1_GEyjV0Y4w3XpkRDj6iHrA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：aych  
+
+代码整洁之道.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Xxiz8LzT7u1wazR0o-nEJA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：tymx  
+
+江南白衣优化.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1jGcfNaiT1k1V8tX6uabb8g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：mvpa  
+
+重构-改善既有代码的设计.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1UGnVQwvguIMuFMf6yy8l4g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：bssy  
