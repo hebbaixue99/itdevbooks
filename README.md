@@ -32,7 +32,7 @@ C程序设计语言（第二版）中文译版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 C程序设计语言（英文第二版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1E_hMl1VLVlDn44ew_mrHrw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：rfne  
 
-C大纲.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](发生错误)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：null  
+C大纲.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/13zvfjFYaY6Pl8VutieLNHw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：vrtf  
 
 C大全语言.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Rd6trlbNhigXbMsg4uMYnA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：jfwp  
 
@@ -56,7 +56,7 @@ C语言解析教程.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链�
 
 C语言深度解剖.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1wc0IeIWQR28jG0uOtqKz_A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：fjxw  
 
-C语言实现病毒源码演示.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](发生错误)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：null  
+C语言实现病毒源码演示.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1LZ1VEwZXoYuVJlN6nxAi8A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：60dt  
 
 C专家编程.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/12jZ8IHA1Cb__KMsFDa4eqA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：gkup  
 
@@ -424,7 +424,7 @@ Web应用开发.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](h
 
 深入分析JavaWeb技术内幕.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/14QwWsW4jClVyL6SepaZrNg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：fbqt  
 
-使用Java.Web服务构建SOA.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](发生错误)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：null  
+使用Java.Web服务构建SOA.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1BsDNPiQs6Lml_UkPP6aUNQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：lof7  
 
 ## Javascript
 
