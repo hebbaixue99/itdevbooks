@@ -1885,7 +1885,7 @@ Python参考手册（第四版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度
 
 Python程序员指南.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1UgzN9KU0ohONquoSp0fUQw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：axgj
 
-Python地理空间分析指南（第二版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](发生错误)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：null
+Python地理空间分析指南（第二版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1YgFdxCGCD88mDbv-N5UPsA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：ibeq
 
 Python高级编程（第二版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1qlPvBIfqav2NOaXdRGyQEQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：fbpf
 
@@ -1941,7 +1941,7 @@ Python数据处理.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接
 
 Python数据分析基础教程：NumPy学习指南（第二版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1n_3DdmFSJIr2hvrQVdYR_g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：rtfw
 
-Python数据分析实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](发生错误)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：null
+Python数据分析实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1etCRbwO9pnh92ZfDmk_Thw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：fpl0
 
 Python数据科学手册.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1y0YDhW1j2c-7y3JYa5XcRg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：pdpm
 
@@ -2233,7 +2233,7 @@ SpringBootCookbook.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接
 
 SpringBootreference-guide-zh.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1ueA9qfWcEgmIo-KFuY4WYQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：xvck
 
-SpringBoot揭秘：快速构建微服务体系.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](发生错误)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：null
+SpringBoot揭秘：快速构建微服务体系.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1I3kIasza2KLVGalih1jueA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：wp25
 
 SpringBoot揭秘快速构建微服务体系.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1YYCf7Nt4fIWshEDqOOHCxw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：yjfp
 
@@ -2243,7 +2243,7 @@ SpringBoot实战,丁雪丰（译者）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[�
 
 SpringBoot实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1yLfvcBg6kialAeCK8UtA3Q)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：mcxf
 
-SpringBoot实战（第四版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](发生错误)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：null
+SpringBoot实战（第四版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1bJXfMZbKc7BRW4Os_e0ZQw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：iqh5
 
 从零开始学SpringBoot.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1wvveBEUlFd39oIE13CeMjg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：nffk
 
@@ -2281,7 +2281,7 @@ SpringCloud与Docker微服务架构实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 
 SpringCloud中文文档.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1AsaM1V-xAWB1N1HE0ygf1Q)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：xjde
 
-疯狂SpringCloud微服务架构实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](发生错误)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：null
+疯狂SpringCloud微服务架构实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/17m-C1i1m4UZQ1fBU_7AKjQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：m75a
 
 深入理解SpringCloud与微服务构建-第二版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1UvDP10G8oFquvLkkou9vKQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：bpaf
 
@@ -2528,13 +2528,13 @@ Microsoft.NET.框架程序设计.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度�
 
 轻量级微服务架构（下册）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1zoX-AJLBxN5yUa5VYTgBoQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：jcmb
 
-人人都是架构师+分布式系统架构落地与瓶颈突破.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](发生错误)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：null
+人人都是架构师+分布式系统架构落地与瓶颈突破.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1c4sMiCOdT06pxd-e4-dbcA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：dirl
 
 软件安全从源头开始.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1KFw4y1VXHsOmqwOfb8oVew)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：pdsr
 
 软件工程架构驱动的软件开发.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1mntiX1Sznsl8yqS98zSHxw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：wjtd
 
-软件工程面向对象和传统的方法.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](发生错误)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：null
+软件工程面向对象和传统的方法.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1fG3_AqJu-tLX2QHUOw-Q7A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：ews3
 
 软件工程原书第9版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1o8Ymui9KxyEdLy3A8E-mXA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：vdgn
 
@@ -2597,7 +2597,7 @@ Microsoft.NET.框架程序设计.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度�
 
 白话深度学习与TensorFlow.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1ZLw__yjBUaZlWksJp7v7FA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：ddjm
 
-机器学习.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](发生错误)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：null
+机器学习.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1D5Ev9mTVN7js9OhjpKH2yA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：t44o
 
 机器学习numpy和pandas基础.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1kk9_TAsA_R6Yb_VJKx2duw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：yhys
 
@@ -2613,7 +2613,7 @@ Microsoft.NET.框架程序设计.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度�
 
 神经网络与机器学习.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1L3IqJJXj8IEw5DYhu17YWw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：mgtu
 
-神经网络原理.原书第二版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](发生错误)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：null
+神经网络原理.原书第二版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Btx6EMx-zgP1wFT1_nKrZQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：yhc5
 
 ## 软件测试
 
@@ -2692,7 +2692,7 @@ SQL注入攻击与防御第二版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度
 
 SQL注入攻击与防御原书第二版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1joJZS9_QK4Pzc1rzXlKxlA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：efms
 
-VisualC#数据库高级教程.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](发生错误)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：null
+VisualC#数据库高级教程.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1yMlj5LyHy9Wz4camNrLeGw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：l0lz
 
 设计有效的数据库系统.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1kt5mzpLMsvN51RDIszTaaw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：gnbx
 
@@ -2960,7 +2960,7 @@ ZooKeeper面试题-发布版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云�
 
 第二版：SpringBoot 10 道.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1idLAz8DDuSURBXYO2PJzUg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：jfxs
 
-第二版：SpringBoot 22 道.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](发生错误)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：null
+第二版：SpringBoot 22 道.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1dFnZIePqMFeEINB51QaA-Q)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：t25p
 
 第二版：SpringCloud 20 道.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1naqYsW4UzMfiLHq3NrSrKg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：ygxb
 
