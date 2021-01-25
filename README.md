@@ -758,7 +758,7 @@ Python参考手册（第四版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度
 
 Python程序员指南.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1UgzN9KU0ohONquoSp0fUQw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：axgj  
 
-Python地理空间分析指南（第二版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](发生错误)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：null  
+Python地理空间分析指南（第二版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1YgFdxCGCD88mDbv-N5UPsA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：ibeq  
 
 Python高级编程（第二版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1qlPvBIfqav2NOaXdRGyQEQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：fbpf  
 
@@ -814,7 +814,7 @@ Python数据处理.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接
 
 Python数据分析基础教程：NumPy学习指南（第二版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1n_3DdmFSJIr2hvrQVdYR_g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：rtfw  
 
-Python数据分析实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](发生错误)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：null  
+Python数据分析实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1etCRbwO9pnh92ZfDmk_Thw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：fpl0  
 
 Python数据科学手册.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1y0YDhW1j2c-7y3JYa5XcRg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：pdpm  
 
@@ -1107,7 +1107,7 @@ SpringBootCookbook.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接
 
 SpringBootreference-guide-zh.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1ueA9qfWcEgmIo-KFuY4WYQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：xvck  
 
-SpringBoot揭秘：快速构建微服务体系.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](发生错误)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：null  
+SpringBoot揭秘：快速构建微服务体系.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1I3kIasza2KLVGalih1jueA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：wp25  
 
 SpringBoot揭秘快速构建微服务体系.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1YYCf7Nt4fIWshEDqOOHCxw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：yjfp  
 
@@ -1117,7 +1117,7 @@ SpringBoot实战,丁雪丰（译者）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[�
 
 SpringBoot实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1yLfvcBg6kialAeCK8UtA3Q)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：mcxf  
 
-SpringBoot实战（第四版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](发生错误)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：null  
+SpringBoot实战（第四版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1bJXfMZbKc7BRW4Os_e0ZQw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：iqh5  
 
 从零开始学SpringBoot.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1wvveBEUlFd39oIE13CeMjg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：nffk  
 
@@ -1155,7 +1155,7 @@ SpringCloud与Docker微服务架构实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 
 SpringCloud中文文档.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1AsaM1V-xAWB1N1HE0ygf1Q)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：xjde  
 
-疯狂SpringCloud微服务架构实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](发生错误)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：null  
+疯狂SpringCloud微服务架构实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/17m-C1i1m4UZQ1fBU_7AKjQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：m75a  
 
 深入理解SpringCloud与微服务构建-第二版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1UvDP10G8oFquvLkkou9vKQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：bpaf  
 
@@ -1380,6 +1380,387 @@ Microsoft.NET.框架程序设计.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度�
 架构演进：人寿系统架构演变.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1OA56l9dM8ho7qA7D28jOUA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：rmms  
 
 架构演进：网易开源.pptx.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1AGn0Og5v3QyTrwwmMAI8Ig)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：ykgy  
+
+架构演进：微信之道－至简.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1qRy8pJly-tN3JMUg4cpspA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：yapu  
+
+架构演进：小米的经验分享.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1d_zYN8SExBJZz5ezXX2BKA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：pmqn  
+
+架构演进：一亿用户增长背后的架构秘密（全文PPT）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1eGKa-TAw8rRDK7vrM20oIg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：augf  
+
+架构演进：知乎架构变迁史.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1CZr31zOQfdWXDSg6dEN4nw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：eknk  
+
+面向对象程序设计图形应用实例.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1h0C6BVqLeJWC7t1F6dGshQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：dxnq  
+
+面向对象软件工程.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1_SeVnUc1Hu413KhzDcAFgQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：qkhm  
+
+面向对象与传统软件工程统一过程的理论与实践.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1tkej8trl4c36HwnzgcioaQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：hxxd  
+
+敏捷软件开发：原则、模式与实践.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1HujV9N_tIm2Ue-M_F_9eNw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：rspa  
+
+轻量级微服务架构（上册）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/18qfvhPp649heoFmXktvFOg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：xftj  
+
+轻量级微服务架构（下册）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1zoX-AJLBxN5yUa5VYTgBoQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：jcmb  
+
+人人都是架构师+分布式系统架构落地与瓶颈突破.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](发生错误)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：null  
+
+软件安全从源头开始.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1KFw4y1VXHsOmqwOfb8oVew)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：pdsr  
+
+软件工程架构驱动的软件开发.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1mntiX1Sznsl8yqS98zSHxw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：wjtd  
+
+软件工程面向对象和传统的方法.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](发生错误)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：null  
+
+软件工程原书第9版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1o8Ymui9KxyEdLy3A8E-mXA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：vdgn  
+
+软件构架实践_第二版_林_巴斯等著.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1fzHMMsD2wK7b4Xp-CugCeQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：xhfx  
+
+软件架构师的12项修炼.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1QLZMF249JTHhcY6bDENNWg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：xxyr  
+
+软件可靠性方法.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1IPzTU6DIrv31Gi1ZCMHdOA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：ahss  
+
+深入理解Nginx模块开发与架构解析第二版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1ldqoJcfcSIeBSWByqPBOVg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：sknj  
+
+数据密集型应用系统设计.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1vo1nEA1gj-1NF_t5lVh-KA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：cgkx  
+
+数据通信、计算机网络与开放系统（原书第四版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/13Fv9GeGueBOHOxcnH5o53Q)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：fjst  
+
+数据通信基础设施、联网和安全原书第七版T.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1nWlpGl3m87mzVw5e-lNS4w)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：njdc  
+
+数据通信与网络-原书第四版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1zgd8JZF8OXG8f3O76ob0JA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：xjkb  
+
+数字设计和计算机体系结构原书第二版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1mokVM4hllmfU1_dSR0Q3RQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：xdxx  
+
+数字图像处理疑难解析.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/154jpOVPO8CNRtgg8s2UtgA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：spdu  
+
+推荐系统整体架构和mycat.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1CuZ8VUbbJMlqZ3iNHyvPng)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：jfrm  
+
+微服设计.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1eXxSXr_At-Dm_fk_jQCOBQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：atfj  
+
+微服务分布式构架开发实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1QUMfzz7sEnA6dvaTWhsJfA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：abgn  
+
+微服务架构与实践（王磊著）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1LFeA-0pDUbDjxqpJ8KB3xg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：ntaw  
+
+系统分析与设计导论.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1L_9aH3VmLpi8slWRGI8dZQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：pncy  
+
+系统分析与设计教程原书第七版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/11D62FySweDeHetxiSgaBhQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：wnuk  
+
+系统分析与设计敏捷迭代方法原书第六版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1slWRoJVVfHzOOYRsM2y8iw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：ycyd  
+
+系统分析与设计原书第七版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1AWfWNGlOUQ1MwMXuUkOfvg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：bgsr  
+
+系统架构：复杂系统的产品设计与开发.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1L5aTNNiasKgr5zEKG2kXNw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：xstp  
+
+现代操作系统第三版英文.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1cqO-1t5ktFyaLGoSFYrFmA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：rebf  
+
+阎宏-Java与模式.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1mZ3euwfuuZYZz0dWD2ETeg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：nxdn  
+
+一线架构师实践指南.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1f_6dngfklUJLM7hOhD83lQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：ktet  
+
+亿级流量网站架构核心技术+跟开涛学搭建高可用高并发系统.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1MoSsDMzUzGc513NCrGZqzg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：rgww  
+
+亿级流量网站架构核心技术-跟开涛学搭建高可用高并发系统.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1hLOp66q0bIlJ3XRTFNZTgg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：upfs  
+
+云计算架构技术与实践+第二版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Pi4i2YntSaPYdoSHvsonVg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：newj  
+
+重构-改善既有代码的设计.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/17TwdU1c0BZAbGAOD-PAQ7Q)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：fceb  
+
+自动机理论、语言和计算导论.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1zlg_0XChqqcCO5oQAqNQ8g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：hsyr  
+
+## 人工智能
+
+白话深度学习与TensorFlow.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1ZLw__yjBUaZlWksJp7v7FA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：ddjm  
+
+机器学习.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](发生错误)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：null  
+
+机器学习numpy和pandas基础.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1kk9_TAsA_R6Yb_VJKx2duw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：yhys  
+
+机器学习实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1pTrPGVbmLQMrIcSwMCSbLw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：ecgp  
+
+人工智能复杂问题求解的结构和策略原书第六版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1SDsUMKH04iyaCT9NMlapbg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：ermp  
+
+人工智能智能系统指南（原书第三版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Wvu4z-_LSzofglfox1e4ig)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：dnxh  
+
+深度学习-无水印-中文版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1FY_754yfqikeY5qc1rKEmw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：rfnn  
+
+神经网络和深度学习.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1CJbzqyobhwqchZksZN7yCg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：qfax  
+
+神经网络与机器学习.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1L3IqJJXj8IEw5DYhu17YWw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：mgtu  
+
+神经网络原理.原书第二版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](发生错误)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：null  
+
+## 软件测试
+
+软件测试基础.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/10s7yvEvwMy1caKWAwcFUPw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：qdbt  
+
+软件测试基础教程.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1oRJNseVIFgDs6SLBL3XFZA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：qaav  
+
+软件测试原理与实践.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1aTkoMSzGdkAa1wXxmOLMbw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：krgp  
+
+软件测试原书第二版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/10vW1n9E_7_O4bwdlOMX0EA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：dcwd  
+
+## 设计模式
+
+23种Java设计模式.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1eh5oqb8vbdq5RAlSL79D8Q)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：yfja  
+
+23种设计模式知识要点.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1QAL-yAVeqjRcwfsD2JGcvg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：pynv  
+
+24个Java代码（Java经典模式设计）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1OoosrBfBWK9QAK0TQIE4ew)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：tdkn  
+
+HeadFirst设计模式.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1a9C2j3RckNZZwCWOzZagzQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：jnws  
+
+JavaHeadFirst设计模式.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1xSFgFkhK6lOlIGog2r8teA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：sfhj  
+
+JavaWeb模式设计之道（jb51.net）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1ViNmcCBVrjbhzC4YlGtVOw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：egag  
+
+Java并发编程：设计原则与模式（第二版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1MLgSHc7_gYUF2p3IP6vjUQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：cxvt  
+
+Java多线程编程实战指南设计模式篇.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1OakxWURtDF1MhnB5ChmvSw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：awws  
+
+Java设计模式（第二版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1IktvcAQWoBjbOVq_LXe7Ww)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：dasf  
+
+大话设计模式.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1b1nQRPcA5hNyxqQas2SWEg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：afcx  
+
+设计模式-可复用面向对象软件的基础.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1odKYhYMr4oHMhKtkQHXmog)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：ewss  
+
+设计模式之禅.秦小波.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1WWXQJ_kXE7bFNL6YGg2Uww)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：rsun  
+
+设计模式之禅（第二版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1KWoz-LdblGericVV-ydvqg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：ehkb  
+
+图解Java多线程设计模式.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1GZsmyslADdDiG9ubWqQ1RQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：dsvh  
+
+图解设计模式.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1teydg8GdbD2e-dmiNbJ1NQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：wubt  
+
+研磨设计模式-.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1_Eh7vreNW5U69pSVz9UZgQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：pvud  
+
+研磨设计模式.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Hdjlf0Go3N6vzQIBqGfqvg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：bhpx  
+
+## 数据库类
+
+Java网站数据库设计.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1_J34VM8FGV5GvIpcnmNEMA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：yrmj  
+
+PostgreSQL从入门到精通.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1kMwCMbF-HPnwHN3Eub5dhA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：fjar  
+
+PostgreSQL详解.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Zlr13EcrCVviOqi5uMZy2A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：rpbb  
+
+PowerDesigner16系统分析与建模实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/19uRhLZ-y-wSeJLwtDHg1LA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：frpc  
+
+PowerDesigner_15.1教程（完整）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1eOffPVGYRVnuUxKZFz0C5A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：bvag  
+
+PowerDesigner教程.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1oPirlfDkZ8KPbBZ05cJdQg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：jjau  
+
+SQLCookbook中文版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1BNG6VD7RGH5gIRX63xcwtA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：gbgc  
+
+SQLite权威指南.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1b4ou4nLGMtDOzuW0UwmTIQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：mbpu  
+
+SQL查询的艺术.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1EvRbBfMRjBeKhSrCe36DHg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：yxxm  
+
+SQL经典实例.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/192IgNkJiN_jCWn4uM5Yr0w)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：vrmj  
+
+SQL语句大全大全.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1xT7Pp57YlCrBk41z_eIyUQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：tkvr  
+
+SQL语言艺术.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/11Dte6piqSqH5Pu6kJ-aY3Q)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：vuvg  
+
+SQL注入攻击与防御第二版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1-8dOeTUpDLDrvVJ-Cvc7Lg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：yyux  
+
+SQL注入攻击与防御原书第二版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1joJZS9_QK4Pzc1rzXlKxlA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：efms  
+
+VisualC#数据库高级教程.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](发生错误)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：null  
+
+设计有效的数据库系统.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1kt5mzpLMsvN51RDIszTaaw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：gnbx  
+
+数据库.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/19eNfc0qaI5nZn4nSS0wKgA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：mqxw  
+
+数据库查询优化器的艺术：原理解析与SQL性能优化.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1fr11ipECSDb-svyemX4zDQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：jxcv  
+
+数据库管理基础教程.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1edShCJlIVc1tDRqiJmNgJw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：saky  
+
+数据库管理系统第三版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1VgjYq5wkzPa5c0GpbTnTYg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：hwek  
+
+数据库设计教程第二版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1llPfN3VXo6Mw5YPaycYRiA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：bkww  
+
+数据库系统导论-原书第八版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1RK6fCpXZX3fEkvM5SBU2_A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：dhge  
+
+数据库系统概念-原书第六版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1DkVWc-iGeBWWxZuOtxYwxw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：sakx  
+
+数据库系统基础教程-原书第三版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1w33HafOgk7h3GLJ-Ut5Zzg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：ftbp  
+
+数据库系统全书.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1z54u7ZLvyHMEVO-aP2iwcA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：qhvb  
+
+数据库系统设计实现与管理.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Up8b6C498s7M1lLlC0ReXQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：xddg  
+
+数据库系统实现.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1FWzyeTSTOGoCnDNTpUOSfg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：dxqx  
+
+数据库与事务处理.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1PsJ45MHV0PCsgyrj8pDTzA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：yspv  
+
+## 数据挖掘
+
+社交网站的数据挖掘与分析_中文版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Pu9o4QYGXmBsgvJ0sGqjaw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：vywe  
+
+数据挖掘：实用机器学习技术（原书第二版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1NroTWqpcLB19cl1IyWyOpQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：kjmb  
+
+数据挖掘概念与技术.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1pumcjYmKfFZ8VaUcZgCEYw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：ykup  
+
+数据挖掘基础教程.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1EREYruDyMCPmq9kqR7Uq8w)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：yckk  
+
+数据挖掘实用机器学习工具与技术原书第三版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Li7Xjrwmipc0U9ijr5WwUQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：bwgt  
+
+数据挖掘原理.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1gu8oHS2XtuPv5Jxu77DlLA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：vkmp  
+
+## 算法系列
+
+C数据结构和算法分析.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/119TlKdgXWYj5QdrGwCyicA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：ckwh  
+
+C数值算法程序大全.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1zHEV2a4YA4MN0_jN4iZLPw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：tbgw  
+
+Java常用算法手册.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1HWvLLZPJE61zXIm8yaoapg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：skcw  
+
+Java常用算法手册第三版本.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1vm36ZPfncut62oZ2jJ5-3g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：bnjk  
+
+Java数据结构和算法.第二版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1_EKJ5IgHjZFYdLk1o4Mu2w)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：csad  
+
+啊哈！算法.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1c8pUakJY6xfOYUaVJKvnqQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：npxg  
+
+大数据算法.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1b9H66pNc8Z0LzMvLlgizMA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：fvuc  
+
+高级数据结构.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1VdHbHaxefL7CA0yoniZGIQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：grrm  
+
+和小浩学算法.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1jOHwgH8FY5QKpZnJRhzRvA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：jtke  
+
+计算机算法分析与设计课件.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1PFCrqYhrgJUDtXFti-P1LA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：kctg  
+
+经典算法大全.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1rZ6xTTlHOVtqoAImgJcakw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：wkfj  
+
+离散数学导学.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1SzLiz4kVKQfgAdmdK3yrbA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：srjf  
+
+离散数学及其应用原书第七版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1w4iebO1bfNocgMfPa8XuQQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：bjck  
+
+漫画算法：小灰的算法之旅 - 魏梦舒.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1tFgroWnaYQr-X2ci5OtPRQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：hjms  
+
+密码学导引.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1h099raG_ivawHCZ4tWk31w)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：twdc  
+
+密码学基础教程秘密与承诺.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1pY7nr8w6Uhh4WjhY4PYrjg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：tysf  
+
+密码学算法协议c实现.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1m2Hy-VfgwD5fx6MK273kJA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：twqg  
+
+深入理解机器学习从原理到算法.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1szpU-intfQFlzxkxX1WEHw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：xwgp  
+
+数据结构（C#语言版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1mcQEiZMNZsODci_n0QUbZQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：uavm  
+
+数据结构（Java版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Tjp1nRZuhWhvC_HKwxYbuQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：mckf  
+
+数据结构讲义（严蔚敏版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1eFHuo2TmZhl6RH7FwwgR_Q)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：vwyg  
+
+数据结构实例分析.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1JNYwq4XX8Mp4a7SYK_jcQg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：rtwf  
+
+数据结构与STL.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Pg8gyoFANjlCYyc4CNq_vw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：ccgm  
+
+数据结构与算法-JAVA语言.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1ofptqxxZgfGglBuB9B9T9A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：tgpj  
+
+数据结构与算法.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1K3DmV6P7m2uWLeNsfNg2cA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：fegs  
+
+数据结构与算法Java版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/10BI3NCMafNx8niBYV2PYrg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：wftu  
+
+数据结构与算法（JAVA语言版解密）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/19sIVT9nm2ZbIxLMfcEEtWw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：tbwv  
+
+数据科学入门.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/18W_8MN5Uu4H-zsSRmr4AhA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：jkab  
+
+算法导论（原书第三版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1P9lqf2fUYuJ-laoTS4JJtQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：xhaf  
+
+算法导论（原书第三版）中文.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1RZkZH5Tb4lE38kmieurRRg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：frpr  
+
+算法导论第三版中文.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1tjZd9odmAiJCJ4VvvaMMuw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：dute  
+
+算法第四版-谢路云译.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1YVRjo6YXQrb8DBU9phOB8w)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：kgtg  
+
+算法第四版-谢路云译Java描述.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/19B3NF1NqUMi_MnDGtZPEKQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：mqpr  
+
+算法分析导论_11562998.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Wqvb7mEF67Qeybyet8IXhQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：xrgq  
+
+算法概论.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1u6NJjJpocFe_1gKlfAY4rw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：gebr  
+
+算法基础.打开算法之门.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1L8Zqr4LLlEqA0oKbDps5aQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：yssa  
+
+算法设计手册-第2版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1dDxKZVxq2_TplFro3cmElA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：hpet  
+
+算法设计与分析导论_11888784.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1i2mSmNW72raCBbmsc2BxAg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：bjsr  
+
+算法设计与分析基础.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1umRr7JTLfp6tgWvKBGzcuQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：nfgv  
+
+算法图解.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1KaUCkSW_Nt1yZTfDwqTEYQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：rdkb  
+
+算法与数据结构-实用算法基础教程.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1h61A39ID5ZYVdAs_Fp1vmg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：dvbu  
+
+图解数据结构-使用Java.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1w_dYMOWZLxGBtUYmADog5A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：fpvd  
+
+## 新面试题
+
+Dubbo面试题-发布版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1i-2HU_podnONkXCIVITXBw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：dewh  
+
+Elasticsearch面试题-发布版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1JfNokxTzcoTGwXof-hA6vQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：fryw  
+
+Java程序员面试宝典.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1mchSdZg81Nz0fjoDp8E2Dg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：wdcc  
+
+Java程序员面试宝典（第二版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1asqIE61lGXposZ-p0AlyZg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：vunv  
+
+Java程序员面试笔试宝典-何昊.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1qLnsU39IHDSKkog5aLS8FA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：ukgj  
+
+Java程序员面试笔试真题库.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1xSBYutVnwVHvj6z_lv5OJg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：swsf  
+
+Java程序员面试笔试真题与解析.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/19i4svUmbEDBi-_KZYtB1Jg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：gybx  
+
+Java核心知识点面试题整理.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/143GVY2tfMh_d_xM0oaxyLQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：rcdm  
+
+Java面试宝典.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Kbdx5etJnN7esz01lc8gnQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：vawb  
+
+JVM面试题-发布版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1QvsniJFbncUrylWV47u6rA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：tcgr  
+
+Kafka面试题-发布版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1ZI_f14B-UbRYVl6c3naCtw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：hyyw  
+
+Linux面试题-发布版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/10mthqPHRgqu9cSGdhAWitA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：uxyv  
+
+Memcached面试题-发布版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/12FgrF54YqbQi_JES2Ug8AA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：tvew  
+
+MongoDB面试题-发布版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1FIxAbXaSHzD5sLf8Q4HT5A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：jxhn  
+
+MyBatis面试题-发布版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1v0Llj_7wVPMKPHWGozAl_A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：aewm  
+
+Mysql面试题-发布版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1VUZM3sqXp5O6vfJEfylMsg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：kyae  
+
+RabbitMQ面试题-发布版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1VOPFZGNxv4v8EK4I-f4GlA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：txtf  
+
+Redis面试题-发布版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1mrY2VfeqTdPQZ-wu1Qn3Jw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：xnaj  
+
+SpringBoot面试题.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1W1SVyA5URstE2vYYZRhs6g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：area  
+
+SpringCloud面试题-发布版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1mc8P9o2FwXslX1HZtY3O0Q)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：sqdn  
+
+String面试题-发布版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1UKTA4SBUI7ySilvKDUT0og)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：tpny  
+
+ZooKeeper面试题-发布版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/11xLMllJ1O8J22Fs2q4AmmA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：xqbn  
+
+剑指offer第2版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1GnoqSMTaakGcA4HJi4fPiA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：gxyb  
+
+
+## 重构优化
+
+Java虚拟机并发编程.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1MBwYNHEVuOq-V1FpPq7tfw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：texj  
+
+编程之美-.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1trz5QH73sRboEDtQjPtEJQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：mawq  
+
+大神手把手教你Java性能优化-江南白衣（加强版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1lSGEI4vD4moEV3Uzcg_rkw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：ucrd  
+
+代码大全2中文版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1_GEyjV0Y4w3XpkRDj6iHrA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：aych  
+
+代码整洁之道.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Xxiz8LzT7u1wazR0o-nEJA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：tymx  
+
+江南白衣优化.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1jGcfNaiT1k1V8tX6uabb8g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：mvpa  
+
+重构-改善既有代码的设计.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1UGnVQwvguIMuFMf6yy8l4g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：bssy  
+
+
+## 免责声明
+
+书籍全部来源于网络其他人的整理，我这里只是收集整理了他们的链接，如有侵权，马上联系我，我立马删除对应链接。我的邮箱：75997533@qq.com
+gy  
 
 架构演进：微信之道－至简.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1qRy8pJly-tN3JMUg4cpspA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：yapu  
 
