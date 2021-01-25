@@ -12,6 +12,18 @@
 
 # 书籍分了40多个技术大类
 
+|[C](https://github.com/itdevbooks/pdf/blob/main/README.md#c-语言)  | [C#](https://github.com/itdevbooks/pdf/blob/main/README.md#C#-语言) |  [Docker](https://github.com/itdevbooks/pdf/blob/main/README.md#C#Docker) | [Elasticsearch](https://github.com/itdevbooks/pdf/blob/main/README.md#C#Elasticsearch)  | [Git](https://github.com/itdevbooks/pdf/blob/main/README.md#C#Git)  |
+| ------------ | ------------ | ------------ | ------------ | ------------ |
+|[Hadoop](https://github.com/itdevbooks/pdf/blob/main/README.md#Hadoop)   | [HeadFirst](https://github.com/itdevbooks/pdf/blob/main/README.md#HeadFirst)   | [Java](https://github.com/itdevbooks/pdf/blob/main/README.md#Java)   | [Javascript](https://github.com/itdevbooks/pdf/blob/main/README.md#Javascript)   |  [JVM](https://github.com/itdevbooks/pdf/blob/main/README.md#jvm)  |
+| [Kafka](https://github.com/itdevbooks/pdf/blob/main/README.md#Kafka)   |  [Linux](https://github.com/itdevbooks/pdf/blob/main/README.md#Linux)  |  [Maven](https://github.com/itdevbooks/pdf/blob/main/README.md#Maven)  | [MongoDB](https://github.com/itdevbooks/pdf/blob/main/README.md#MongoDB)   |  [MyBatis](https://github.com/itdevbooks/pdf/blob/main/README.md#MyBatis)  |
+| [MySQL](https://github.com/itdevbooks/pdf/blob/main/README.md#MySQL)   |  [Netty](https://github.com/itdevbooks/pdf/blob/main/README.md#Netty)  |  [Nginx](https://github.com/itdevbooks/pdf/blob/main/README.md#Nginx)  | [Python](https://github.com/itdevbooks/pdf/blob/main/README.md#Python)   |  [RabbitMQ](https://github.com/itdevbooks/pdf/blob/main/README.md#RabbitMQ)  |
+| [Redis](https://github.com/itdevbooks/pdf/blob/main/README.md#Redis)   |  [Scala](https://github.com/itdevbooks/pdf/blob/main/README.md#Scala)  |  [Solr](https://github.com/itdevbooks/pdf/blob/main/README.md#Solr)  | [Spark](https://github.com/itdevbooks/pdf/blob/main/README.md#Spark)   |  [Spring](https://github.com/itdevbooks/pdf/blob/main/README.md#Spring)  |
+| [SpringBoot](https://github.com/itdevbooks/pdf/blob/main/README.md#SpringBoot)   |  [SpringCloud](https://github.com/itdevbooks/pdf/blob/main/README.md#SpringCloud)  |  [TCPIP](https://github.com/itdevbooks/pdf/blob/main/README.md#TCPIP)  | [Tomcat](https://github.com/itdevbooks/pdf/blob/main/README.md#Tomcat)   |  [Zookeeper](https://github.com/itdevbooks/pdf/blob/main/README.md#Zookeeper)  |
+| [人工智能](https://github.com/itdevbooks/pdf/blob/main/README.md#人工智能)   |  [大数据类](https://github.com/itdevbooks/pdf/blob/main/README.md#大数据类)  |  [并发编程](https://github.com/itdevbooks/pdf/blob/main/README.md#并发编程)  | [数据库类](https://github.com/itdevbooks/pdf/blob/main/README.md#数据库类)   |  [数据挖掘](https://github.com/itdevbooks/pdf/blob/main/README.md#数据挖掘)  |
+| [新面试题](https://github.com/itdevbooks/pdf/blob/main/README.md#新面试题)   |  [架构设计](https://github.com/itdevbooks/pdf/blob/main/README.md#架构设计)  |  [算法系列](https://github.com/itdevbooks/pdf/blob/main/README.md#算法系列)  | [计算机类](https://github.com/itdevbooks/pdf/blob/main/README.md#计算机类)   |  [设计模式](https://github.com/itdevbooks/pdf/blob/main/README.md#设计模式)  |
+| [软件测试](https://github.com/itdevbooks/pdf/blob/main/README.md#软件测试)   |  [重构优化](https://github.com/itdevbooks/pdf/blob/main/README.md#重构优化)  |[第二版-面试题](https://github.com/itdevbooks/pdf/blob/main/README.md#第二版-面试题)   |   | |   |
+
+
 ## C 语言
 
 21天学通c++第7版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Pv45msRWe0sCurOM9RR9uQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：qvdj
