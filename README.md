@@ -1760,7 +1760,7 @@ ZooKeeper面试题-发布版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云�
 
 
 
-## 重构优化(https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## 重构优化
 
 Java虚拟机并发编程.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1MBwYNHEVuOq-V1FpPq7tfw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：texj
 
@@ -1777,7 +1777,7 @@ Java虚拟机并发编程.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下�
 重构-改善既有代码的设计.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1UGnVQwvguIMuFMf6yy8l4g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：bssy  
 
 
-## 新增，第二版：面试题(https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## 新增，第二版：面试题
 
 第二版：面试题 Android 100 道.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1iKSwXFJ6QYnSvpDITa0rwg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：ewdu
 
