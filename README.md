@@ -4,7 +4,7 @@
 
 计算机类的书籍非常贵，天天买纸质书是不可能的了，所以对电子书的需求量还是挺多的。同时很多小伙伴不知道哪些书是经典，哪些是辣鸡，作为一个互联网从业12年的职场老鸟，我深知看书，看好书再加上实践才能高速成长。
 
-计算机类电子书下载，编程电子书整理下载，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类
+计算机类电子书下载，编程电子书整理下载，包括C，C#，**Docker**，**Elasticsearch**，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，**Linux**，Maven，MongoDB，MyBatis，MySQL，**Netty**，Nginx，Python，**RabbitMQ**，Redis，Scala，Solr，Spark，**Spring**，**SpringBoot**，**SpringCloud**，TCPIP，Tomcat，Zookeeper，人工智能，**大数据类**，**并发编程**，数据库类，数据挖掘，新面试题，**架构设计**，**算法系列**，计算机类，**设计模式**，软件测试，重构优化，等更多分类
 
 重要说明：这些书涵盖入门和进阶所需，请大家各取所需，另外还会原创大厂面试题，陆续会提交上来，请大家持续关注这个项目。
 
