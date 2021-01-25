@@ -24,7 +24,7 @@
 | [面试题](https://github.com/itdevbooks/pdf/blob/main/README.md#新面试题)   |  [架构设计](https://github.com/itdevbooks/pdf/blob/main/README.md#架构设计)  |  [算法系列](https://github.com/itdevbooks/pdf/blob/main/README.md#算法系列)  | [计算机类](https://github.com/itdevbooks/pdf/blob/main/README.md#计算机类)   |  [设计模式](https://github.com/itdevbooks/pdf/blob/main/README.md#设计模式)  |
 | [软件测试](https://github.com/itdevbooks/pdf/blob/main/README.md#软件测试)   |  [重构优化](https://github.com/itdevbooks/pdf/blob/main/README.md#重构优化)  |[第二版-面试题](https://github.com/itdevbooks/pdf/blob/main/README.md#新增第二版面试题)   |   | |   |
 
-## [C 语言](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## C 语言
 
 21天学通c++第7版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Pv45msRWe0sCurOM9RR9uQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：qvdj
 
@@ -94,7 +94,7 @@ Linux操作系统下C语言编程入门.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
 
 自制编程语言基于C语言.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1vk5rAD2pAscURdISdhR2ig)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：ybqh
 
-## C# 语言](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## C# 语言
 
 ASP.NET.2.0.XML.高级编程（第三版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1I7oyBgWo1wrlQ5iIIE1m8w)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：ngna
 
@@ -168,7 +168,7 @@ Windows应用高级编程-C#编程篇.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[�
 
 叩响C#之门.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1lHUal4JysWeqwmBXYiHuuw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：atej
 
-## Docker 语言](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## Docker 语言
 
 docker-从入门到实践.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1ccTG4htfo-jZ1Nb8nnKeNQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：enbt
 
@@ -196,7 +196,7 @@ SpringCloud与Docker微服务架构实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 
 微服务架构下Docker实践，以及Docker在测试环境的应用.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1ngvZs7yWfuRxUxxST43LzQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：pkmj
 
-## Elasticsearch](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## Elasticsearch
 
 BetterELK,新浪实时日志分析服务进化.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1uUxY9AtKQEy-if3fKkhK4g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：kfgc
 
@@ -240,7 +240,7 @@ SpringBoot集成Elasticsearch7.4实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[�
 
 最新版Elasticsearch调优搜索速度.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1ewPAjJ6zWPeBHLPQx66QVQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：trqt
 
-## Git](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## Git
 
 GitBook（中文版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1xhG-q_BEFY-U4uuY9oybDQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：kvak
 
@@ -278,7 +278,7 @@ ProGit中文第二版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链
 
 完全学会GITGITHUBGITSERVER的24堂课.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/12Hk4dMkfkE1L0WERrEa-qg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：jbpj
 
-## Hadoop](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## Hadoop
 
 Hadoop搭建与Eclipse开发环境设置.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1-yw-COXzqlIlOl95h8I74w)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：rvda
 
@@ -312,7 +312,7 @@ Hadoop权威指南（中文第二版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
 
 在Windows上安装Hadoop教程.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1w1JBUHP9K4E5QwYje-UM3A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：pmkv
 
-## HeadFirst](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## HeadFirst
 
 Head First Ajax（中文版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1-RyMwcVfgc2PplMHm0UKww)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：pyuq
 
@@ -340,7 +340,7 @@ Head First Servlets and JSP 第2版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百�
 
 Head First 设计模式（中文版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1GX8ZZT2_ISqJv47sBwFvgQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：bafw
 
-## Java](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## Java
 
 21天学通Java.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1KcnqkVnoSiiOkZmkzYNGfQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：jeyg
 
@@ -440,7 +440,7 @@ Web应用开发.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](h
 
 使用Java.Web服务构建SOA.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1BsDNPiQs6Lml_UkPP6aUNQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：lof7
 
-## Javascript](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## Javascript
 
 JavaScript基础教程（中文第八版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1KrBmT24VTDJblH9pfGTzOw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：bxer
 
@@ -458,7 +458,7 @@ JavaScript权威指南（第五版）中文版（下）.pdf&nbsp;&nbsp;&nbsp;&nb
 
 JavaScript入门经典（第五版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1jmmwbpkUaEnn8TD4Kv0x_g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：wawc
 
-## JVM](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## JVM
 
 glibc内存管理ptmalloc源代码分析.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1zrCQ4sOaDKl17P8KfD6pxA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：jnbu
 
@@ -506,7 +506,7 @@ Twitter的JVM性能调优经验.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度�
 
 自己动手写Java虚拟机（Java核心技术系列）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/18tOPFGWfkHt8wHec6gHjuA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：vdcw
 
-## Kafka](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## Kafka
 
 Apache Kafka实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1F2gu3LgHSz7-mCu1grPE0A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：jjcw
 
@@ -526,7 +526,7 @@ Kafka源码解析与实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下�
 
 图文详解Kafka源码设计与实现.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1fs_pLDYhO-X3Gw0VGX__GA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：qhjd
 
-## Linux](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## Linux
 
 Linux C编程一站式学习(最新版).pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1nSM92Y0ACgKCnW5c_MBOQw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：wchx
 
@@ -576,7 +576,7 @@ Unix与Linux.Shell编程.PDF.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云�
 
 循序渐进Linux第二版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1ZK5-N-9aVPy9INC5XBDf1w)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：ykch
 
-## Maven](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## Maven
 
 Maven权威指南_中文清晰.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1bdYjpFbdTgO1jdirwXUaKw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：vwqy
 
@@ -586,7 +586,7 @@ Maven实战（完整带书签）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度�
 
 Maven应用实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1siK3mklE4FNgoN-DyA-sFQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：cysv
 
-## MongoDB](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## MongoDB
 
 50TipsandTricksforMongoDBDevelopers.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1wDIEHzT8fyDQq_-nx-Vc_g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：fcrm
 
@@ -612,7 +612,7 @@ TheDefinitiveGuidetoMongoDB.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下
 
 深入学习MongoDb.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/19x0Yi3xyzohl6Akqr6YKUA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：tkva
 
-## MyBatis](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## MyBatis
 
 JavaEE框架技术SpringMVC+Spring+MyBatis.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1f_o0B3_zvlHVaOL2AXbAQA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：kpvv
 
@@ -635,7 +635,7 @@ Spring+MyBatis企业应用实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度�
 一本小小的MyBatis源码分析书.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1-ci1QjI-Pgqr92J9sAWYcg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：cejt
 
 
-## MySQL](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## MySQL
 
 MySQL5.5从零开始学.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1P2rN3s0e3PC_U7WXXyozGg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：xjvd
 
@@ -691,7 +691,7 @@ MySQL最佳优化完美攻略.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云�
 
 深入浅出MySQL数据库开发优化与管理维护.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1PgWkcukmRUi1qXxD19381g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：absj
 
-## Netty](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## Netty
 
 Netty5.0架构剖析和源码解读.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1DwH83VFmXv7Dtl4CaNUMGw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：dqwx
 
@@ -729,7 +729,7 @@ Nginx开发从入门到精通.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云�
 
 学习NginxHTTPServer中文版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/12oMND71vtg94ZCxOhk1vVg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：yjhj
 
-## Python](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## Python
 
 Head_First_Python.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1VFiGTiEH1UZ-O1Q7ESxWMQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：bxjd
 
@@ -901,7 +901,7 @@ Selenium2自动化测试实战基于Python语言.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 
 征服Python语言基础与典型应用.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/11dPvt3a-TK_DZafOLWHXyw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：tfpc
 
-## RabbitMQ](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## RabbitMQ
 
 LearningRabbitMQ.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/11OLPEtgvamlehbM-kaJPCQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：yjef
 
@@ -923,7 +923,7 @@ RocketMQ实战与原理解析.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云�
 
 深入RabbitMQ.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1u1zZr6sYHgCk_ombXpwgVw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：jwns
 
-## Redis](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## Redis
 
 Redis4.xCookbook中文版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1xT5vxTrQ6GkplG7oC_njig)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：wyje
 
@@ -963,7 +963,7 @@ Redis学习笔记.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接]
 
 左手MongoDB，右手Redis.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1mqaPNHWzR2mAQOR9MtQYYA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：usvk
 
-## Scala](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## Scala
 
 Scala伴生对象.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1AjvtMiN_yNmkjHBWwIz1wA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：rtbr
 
@@ -987,7 +987,7 @@ Scala语言规范.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接]
 
 快学Scala.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1MubjIXRpV00O4iuk8BHN2w)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：kfdv
 
-## Solr](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## Solr
 
 ApacheSolrEssentials.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Yf5ACO-f2CwWllCB90Va6Q)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：ngks
 
@@ -1013,7 +1013,7 @@ Solr实战中文版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链�
 
 用Solr构建垂直搜索引擎.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1fztu32bV-8gzlLA63YOtDg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：utgg
 
-## Spark](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## Spark
 
 LearningSpark.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1a3pZe9TldXUHp_Cc0e_hMA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：bpbb
 
@@ -1051,7 +1051,7 @@ Spark总结.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https
 
 数据算法：Hadoop、Spark大数据处理技巧.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1QjxarlwM3jR53fBd8h3vJw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：scym
 
-## Spring](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## Spring
 
 JavaEE框架技术SpringMVC+Spring+MyBatis.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/13t5wcfnzzSI8MaSoDs-f6A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：cuqh
 
@@ -1114,7 +1114,7 @@ Spring中文开发手册.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载
 看透SpringMVC源代码分析与实践.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Axx-brgEQPAyceeduOC4EA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：qgbs
 
 
-## SpringBoot](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## SpringBoot
 
 JavaEE开发的颠覆者SpringBoot实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/18_ChlhYC5WPR0z2em0XEJA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：skhv
 
@@ -1152,7 +1152,7 @@ SpringBoot实战（第四版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度�
 
 一步一步学SpringBoot2微服务项目实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1m0hb9sIdkp3L_uvQEVof4w)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：etuc
 
-## SpringCloud](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## SpringCloud
 
 SpringCloudDalston中文文档+参考手册+中文版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/17OOwAEwU9m1xH9peLYwNuw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：gepu
 
@@ -1184,7 +1184,7 @@ SpringCloud中文文档.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载�
 
 重新定义SpringCloud实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1toi6LIOPhm7uIcBshhBtJA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：gcvr
 
-## TCPIP](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## TCPIP
 
 HTTP权威指南.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1V-E7qA1chayHptjMqWD4jw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：qfxn
 
@@ -1200,7 +1200,7 @@ TCPIP详解卷3.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](h
 
 图解TCPIP（第五版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1c4WusvoRv5JUT5N136KbPw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：eaeg
 
-## Tomcat](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## Tomcat
 
 HowTomcatWorks中文版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1bUzW18tucUfnpZplko1QuA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：nqpn
 
@@ -1218,7 +1218,7 @@ Tomcat源码研究.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接
 
 深入剖析Tomcat.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1bIQQtU5IDwgqMufy6qRtRA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：wkmw
 
-## Zookeeper](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## Zookeeper
 
 Netty_Redis_Zookeeper高并发实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1HglGmsYXMxLn5vme3-qtdQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：sfje
 
@@ -1230,7 +1230,7 @@ ZooKeeper原理与实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载
 
 从Paxos到Zookeeper分布式一致性原理与实践（书签版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1hIQ0y498zyjOPsK09-8wEw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：xamx
 
-## 并发编程](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## 并发编程
 
 Java并发编程的艺术.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/12noqXaPB5jQqf-dZq_mVRg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：vvqk
 
@@ -1272,7 +1272,7 @@ UNIX网络编程卷2(第2版_中文版).pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
 
 搜索引擎优化魔法书+SEO+Magic+Book.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Ulpf4W7o-MM7kLSk_3jopg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：dejw
 
-## 大数据类](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## 大数据类
 
 Druid实时大数据分析原理与实践.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/143Fl3BExT295-apzDYERmQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：bvwt
 
@@ -1302,7 +1302,7 @@ Druid实时大数据分析原理与实践.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 
 自己动手做大数据系统.张魁（带书签文字版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1oef-psBj1qyYh3A7b5Y2lQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：xugy
 
-## 计算机类](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## 计算机类
 
 编码：隐匿在计算机软硬件背后的语言.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1ub9V4Kyo-Uqk8_nGJlFXhQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：wxsc
 
@@ -1338,7 +1338,7 @@ Druid实时大数据分析原理与实践.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 
 网络科学原理与应用.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Ywhevg1Yryj9jWI8kGOnKA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：hnty
 
-## 架构设计](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## 架构设计
 
 Microsoft.NET.框架程序设计.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1kQrL65G9MvFJHVWTYCIF4g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：bgtb
 
@@ -1484,7 +1484,7 @@ Microsoft.NET.框架程序设计.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度�
 
 自动机理论、语言和计算导论.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1zlg_0XChqqcCO5oQAqNQ8g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：hsyr
 
-## 人工智能](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## 人工智能
 
 白话深度学习与TensorFlow.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1ZLw__yjBUaZlWksJp7v7FA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：ddjm
 
@@ -1506,7 +1506,7 @@ Microsoft.NET.框架程序设计.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度�
 
 神经网络原理.原书第二版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Btx6EMx-zgP1wFT1_nKrZQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：yhc5
 
-## 软件测试](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## 软件测试
 
 软件测试基础.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/10s7yvEvwMy1caKWAwcFUPw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：qdbt
 
@@ -1516,7 +1516,7 @@ Microsoft.NET.框架程序设计.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度�
 
 软件测试原书第二版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/10vW1n9E_7_O4bwdlOMX0EA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：dcwd
 
-## 设计模式](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## 设计模式
 
 23种Java设计模式.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1eh5oqb8vbdq5RAlSL79D8Q)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：yfja
 
@@ -1552,7 +1552,7 @@ Java设计模式（第二版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度�
 
 研磨设计模式.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Hdjlf0Go3N6vzQIBqGfqvg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：bhpx
 
-## 数据库类](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## 数据库类
 
 Java网站数据库设计.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1_J34VM8FGV5GvIpcnmNEMA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：yrmj
 
@@ -1610,7 +1610,7 @@ VisualC#数据库高级教程.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云�
 
 数据库与事务处理.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1PsJ45MHV0PCsgyrj8pDTzA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：yspv
 
-## 数据挖掘](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## 数据挖掘
 
 社交网站的数据挖掘与分析_中文版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Pu9o4QYGXmBsgvJ0sGqjaw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：vywe
 
@@ -1624,7 +1624,7 @@ VisualC#数据库高级教程.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云�
 
 数据挖掘原理.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1gu8oHS2XtuPv5Jxu77DlLA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：vkmp
 
-## 算法系列](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## 算法系列
 
 C数据结构和算法分析.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/119TlKdgXWYj5QdrGwCyicA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：ckwh
 
@@ -1710,7 +1710,7 @@ Java数据结构和算法.第二版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百�
 
 图解数据结构-使用Java.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1w_dYMOWZLxGBtUYmADog5A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：fpvd
 
-## 新面试题](https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
+## 新面试题
 
 Dubbo面试题-发布版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1i-2HU_podnONkXCIVITXBw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：dewh
 
@@ -1760,7 +1760,7 @@ ZooKeeper面试题-发布版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云�
 
 
 
-## 重构优化
+## 重构优化(https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
 
 Java虚拟机并发编程.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1MBwYNHEVuOq-V1FpPq7tfw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：texj
 
@@ -1777,7 +1777,7 @@ Java虚拟机并发编程.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下�
 重构-改善既有代码的设计.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1UGnVQwvguIMuFMf6yy8l4g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：bssy  
 
 
-## 新增，第二版：面试题
+## 新增，第二版：面试题(https://github.com/itdevbooks/pdf/blob/main/README.md#书籍分40多个技术大类)
 
 第二版：面试题 Android 100 道.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1iKSwXFJ6QYnSvpDITa0rwg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：ewdu
 
