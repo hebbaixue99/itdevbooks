@@ -1755,3 +1755,8 @@ Java虚拟机并发编程.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下�
 江南白衣优化.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1jGcfNaiT1k1V8tX6uabb8g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：mvpa  
 
 重构-改善既有代码的设计.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1UGnVQwvguIMuFMf6yy8l4g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码：bssy  
+
+
+## 免责声明
+
+书籍全部来源于网络其他人的整理，我这里只是收集整理了他们的链接，如有侵权，马上联系我，我立马删除对应链接。我的邮箱：75997533@qq.com
