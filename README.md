@@ -286,37 +286,38 @@ ProGit中文第二版.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdev
 
 ## Hadoop
 
-Hadoop搭建与Eclipse开发环境设置.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1-yw-COXzqlIlOl95h8I74w)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：rvda
+Hadoop搭建与Eclipse开发环境设置.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iQTivkxehba)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1-yw-COXzqlIlOl95h8I74w)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：rvda
 
-Hadoop大数据分析与挖掘实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1_ndlcCJjmYnPk7s914U__w)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：pwvr
+Hadoop大数据分析与挖掘实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iAlA8kxei4j)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1_ndlcCJjmYnPk7s914U__w)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：pwvr
 
-Hadoop高级编程-构建与实现大数据解决方案.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1ISRomZnhzO3pTSE33HLvYg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：xubc
+Hadoop高级编程-构建与实现大数据解决方案.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/i4JMrkxeich)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1ISRomZnhzO3pTSE33HLvYg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：xubc
 
-Hadoop公平调度器指南.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Be1AoEQZyIRVlRf261bbOQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：rwyq
+Hadoop公平调度器指南.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/ia2mkkxel5i)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Be1AoEQZyIRVlRf261bbOQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：rwyq
 
-Hadoop技术内幕.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Nxfu7ytEhdfTDv6_G6TyNA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：rvvg
+Hadoop技术内幕.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iHJbDkxemed)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Nxfu7ytEhdfTDv6_G6TyNA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：rvvg
 
-hadoop简介.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1HjPoXCY4-aQ9OJiXNGvdfA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：ebfm
+hadoop简介.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iLHp3kxemwb)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1HjPoXCY4-aQ9OJiXNGvdfA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：ebfm
 
-hadoop开发者第三期.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1qnnDciMx68FIYpGqj0ZrnQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：uxhs
+hadoop开发者第三期.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/imUQnkxenfa)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1qnnDciMx68FIYpGqj0ZrnQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：uxhs
 
-Hadoop开发者第四期.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Pfi3AUbMfcCKz-jG85orUw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：tbgx
+Hadoop开发者第四期.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iPUH6kxenoj)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Pfi3AUbMfcCKz-jG85orUw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：tbgx
 
-Hadoop开发者入门专刊.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/107Z2PCG-Q_Njiyg7bV0ibQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：kejg
+Hadoop开发者入门专刊.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iGk6wkxente)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/107Z2PCG-Q_Njiyg7bV0ibQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：kejg
 
-Hadoop权威指南（第四版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1CFuFsngiC9nmKwc2J4_zCw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：pvab
+Hadoop权威指南（第四版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/i1S3lkxeo7i)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1CFuFsngiC9nmKwc2J4_zCw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：pvab
 
-Hadoop权威指南（中文第二版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1e1oWfYr8atVYQA3Swhb71w)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：tqar
+Hadoop权威指南（中文第二版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/irntIkxepxa)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1e1oWfYr8atVYQA3Swhb71w)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：tqar
 
-基于Hadoop平台的亿贝用户邮件数据分析（苏立）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1obIfdffIOX8w348MC9njVQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：gcvr
+基于Hadoop平台的亿贝用户邮件数据分析（苏立）.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iHLQekxeqad)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1obIfdffIOX8w348MC9njVQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：gcvr
 
-实战Hadoop：开启通向云计算的捷径（刘鹏）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1l-HrGhtJ3fZ6nJou4gnC7A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：hsbw
+实战Hadoop：开启通向云计算的捷径（刘鹏）.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iTT9Hkxered)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1l-HrGhtJ3fZ6nJou4gnC7A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：hsbw
 
-数据算法HadoopSpark大数据处理技巧.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1OWxadCpz_iqE1Fq4cVR9JA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：hxxf
+数据算法HadoopSpark大数据处理技巧.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iTxcMkxetbc)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1OWxadCpz_iqE1Fq4cVR9JA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：hxxf
 
-数据算法：Hadoop、Spark大数据处理技巧.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1CL8-WG7XQOxbWLisgb7TZw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：qdey
+数据算法：Hadoop、Spark大数据处理技巧.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iTxcMkxetbc)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1CL8-WG7XQOxbWLisgb7TZw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：qdey
 
-在Windows上安装Hadoop教程.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1w1JBUHP9K4E5QwYje-UM3A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：pmkv
+在Windows上安装Hadoop教程.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/i8EVmkxetcd)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1w1JBUHP9K4E5QwYje-UM3A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：pmkv
+
 
 ## HeadFirst
 
