@@ -23,7 +23,7 @@
 | [SpringBoot](https://github.com/itdevbooks/pdf#springboot)   |  [SpringCloud](https://github.com/itdevbooks/pdf#springcloud)  |  [TCPIP](https://github.com/itdevbooks/pdf#tcpip)  | [Tomcat](https://github.com/itdevbooks/pdf#tomcat)   |  [Zookeeper](https://github.com/itdevbooks/pdf#zookeeper)  |
 | [人工智能](https://github.com/itdevbooks/pdf#人工智能)   |  [大数据类](https://github.com/itdevbooks/pdf#大数据类)  |  [并发编程](https://github.com/itdevbooks/pdf#并发编程)  | [数据库类](https://github.com/itdevbooks/pdf#数据库类)   |  [数据挖掘](https://github.com/itdevbooks/pdf#数据挖掘)  |
 | [面试题](https://github.com/itdevbooks/pdf#新面试题)   |  [架构设计](https://github.com/itdevbooks/pdf#架构设计)  |  [算法系列](https://github.com/itdevbooks/pdf#算法系列)  | [计算机类](https://github.com/itdevbooks/pdf#计算机类)   |  [设计模式](https://github.com/itdevbooks/pdf#设计模式)  |
-| [软件测试](https://github.com/itdevbooks/pdf#软件测试)   |  [重构优化](https://github.com/itdevbooks/pdf#重构优化)  |[第二版-面试题](https://github.com/itdevbooks/pdf#新增第二版面试题)   |   | |   |
+| [软件测试](https://github.com/itdevbooks/pdf#软件测试)   |  [重构优化](https://github.com/itdevbooks/pdf#重构优化)  |[第二版-面试题](https://github.com/itdevbooks/pdf#新增第二版面试题)   |   | | 每天都有更新  |
 
 ## C 语言
 
