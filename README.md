@@ -321,31 +321,31 @@ Hadoop权威指南（中文第二版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下
 
 ## HeadFirst
 
-Head First Ajax（中文版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1-RyMwcVfgc2PplMHm0UKww)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：pyuq
+Head First Ajax（中文版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iXpYUkxeuhe)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1-RyMwcVfgc2PplMHm0UKww)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：pyuq
 
-Head First C# 第二版-中文版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1iAQ0rcy9gH2yO1DEgv7Y_g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：mhtd
+Head First C# 第二版-中文版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1iAQ0rcy9gH2yO1DEgv7Y_g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：mhtd
 
-Head First HTML5 Programming 中文版 .pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1-uMMg_GjFQedOAJQQ3UrgQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：wjyy
+Head First HTML5 Programming 中文版 .pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/ioWjikxev2f)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1-uMMg_GjFQedOAJQQ3UrgQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：wjyy
 
-Head First HTML与CSS、XHTML.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/167awhMP91mzcBGFPoIcLDA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：hspd
+Head First HTML与CSS、XHTML.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iH1LQkxeypg)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/167awhMP91mzcBGFPoIcLDA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：hspd
 
-Head First Java 中文.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/155P-tL24jowuGMtNdY2wSA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：bvpy
+Head First Java 中文.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iEwj9kxf18h)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/155P-tL24jowuGMtNdY2wSA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：bvpy
 
-Head First JavaScript 中文版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1cRLHU-NKIA0nQ2XMzHp2sA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：fkby
+Head First JavaScript 中文版.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iERoWkxf5zi)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1cRLHU-NKIA0nQ2XMzHp2sA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：fkby
 
-Head First Java第二版涵盖java5.0.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1NM7eb06vGK2iBMOF_6uEYg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：cebe
+Head First Java第二版涵盖java5.0.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iXHoSkxf8md)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1NM7eb06vGK2iBMOF_6uEYg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：cebe
 
-Head First Networking 中文版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1dD968W_tr-SUq1i_HdubVA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：upkx
+Head First Networking 中文版.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iZ0Pwkxf9if)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1dD968W_tr-SUq1i_HdubVA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：upkx
 
-Head First PMP 中文版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1DeZdj4zh7hxDnpINLdq0RA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：xxau
+Head First PMP 中文版.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/ijZbskxf9tg)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1DeZdj4zh7hxDnpINLdq0RA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：xxau
 
-Head First Python 重视大脑的学习指南  中文版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1hLAU9HqUbpgh1PQ7DVn3gQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：avey
+Head First Python 重视大脑的学习指南  中文版.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/i0A5nkxfa9c)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1hLAU9HqUbpgh1PQ7DVn3gQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：avey
 
-Head First Servlet JSP.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1mlSoZJ42ukvB7Rl0YBRGdw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：apkv
+Head First Servlet JSP.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/i7J8Zkxfcsd)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1mlSoZJ42ukvB7Rl0YBRGdw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：apkv
 
-Head First Servlets and JSP 第2版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/139L7zhrwsgNhgIGmf1jRZQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：pysa
+Head First Servlets and JSP 第2版.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/i83VIkxfhni)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/139L7zhrwsgNhgIGmf1jRZQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：pysa
 
-Head First 设计模式（中文版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1GX8ZZT2_ISqJv47sBwFvgQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：bafw
+Head First 设计模式（中文版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/i6b7Wkxfj6d)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1GX8ZZT2_ISqJv47sBwFvgQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：bafw
 
 ## Java
 
