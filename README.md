@@ -247,41 +247,42 @@ SpringBoot集成Elasticsearch7.4实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下�
 
 ## Git
 
-GitBook（中文版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1xhG-q_BEFY-U4uuY9oybDQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：kvak
+GitBook（中文版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iLUKFkxe29i)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1xhG-q_BEFY-U4uuY9oybDQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：kvak
 
-GitCheatSheet中文版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1M_aVeiwUR0Hwf9l7SjziFg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：wvwp
+GitCheatSheet中文版.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/il9lkkxe2ed)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1M_aVeiwUR0Hwf9l7SjziFg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：wvwp
 
-GitforTeams.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1LY1Ie9FN78aUybcNxM4BcA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：qrrp
+GitforTeams.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/ibym9kxe2la)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1LY1Ie9FN78aUybcNxM4BcA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：qrrp
 
-GitHub入门与实践_（日）_.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Db3YzGgVjQt9kSMg8HfcUg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：ahjm
+GitHub入门与实践（日）.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iyqIekxe2ti)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Db3YzGgVjQt9kSMg8HfcUg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：ahjm
 
-Git版本控制管理（第二版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1eJTo4qBAsiGvCSVLuU7SPA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：adrk
+Git版本控制管理（第二版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/ioRcDkxe31g)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1eJTo4qBAsiGvCSVLuU7SPA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：adrk
 
-Git版本控制管理（第二版）迷你书.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1oimhw2LAiuVkD_8gnV_NrA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：yyct
+Git版本控制管理（第二版）迷你书.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iLkpMkxe3ni)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1oimhw2LAiuVkD_8gnV_NrA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：yyct
 
-GIT官方手册中文版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1NC6Oi4HdJ5b72VKaIdJR7Q)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：saqd
+Git官方手册中文版.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/i9bekkxe3za)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1NC6Oi4HdJ5b72VKaIdJR7Q)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：saqd
 
-Git讲义-深度讲解.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1hRGXi6L31eOj6YhTPaEUnA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：swyh
+Git讲义-深度讲解.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iLMXTkxe4de)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1hRGXi6L31eOj6YhTPaEUnA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：swyh
 
-Git教程.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1kOBBwQi_cC6j3QvgRr6RuQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：gcrp
+Git教程.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/ioXiZkxe4ja)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1kOBBwQi_cC6j3QvgRr6RuQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：gcrp
 
-Git权威指南.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/13bGqDQ35cJgVfp0ht9SkqQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：wkak
+Git权威指南.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iaye2kxe62f)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/13bGqDQ35cJgVfp0ht9SkqQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：wkak
 
-Git中文版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Hlh9b3NX6roVOruQ8-RcuA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：pmux
+Git中文版.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iR2Swkxe8pa)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Hlh9b3NX6roVOruQ8-RcuA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：pmux
 
-Git中文手册.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1gNKclKvcNITBXDniY0dadA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：qtpb
+Git中文手册.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iEl0ikxeana)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1gNKclKvcNITBXDniY0dadA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：qtpb
 
-ProGit中文版本.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1OkqTAyfUoCFOzgnYmImMDA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：xkry
+ProGit中文版本.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iHn3pkxeawj)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1OkqTAyfUoCFOzgnYmImMDA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：xkry
 
-ProGit中文第二版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1l98hVaPhqHkYq3nSkETZUA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：vwgk
+ProGit中文第二版.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iMrizkxebib)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1l98hVaPhqHkYq3nSkETZUA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：vwgk
 
-版本控制之道使用Git.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1GpOXPOBpfB8Yi15VGnIgKQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：nfth
+版本控制之道使用Git.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iW6o3kxec3c)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1GpOXPOBpfB8Yi15VGnIgKQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：nfth
 
-常用Git命令清单.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1yx5lwu0gskwfmHvn7D7M1g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：ajkn
+常用Git命令清单.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/ifScYkxec7g)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1yx5lwu0gskwfmHvn7D7M1g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：ajkn
 
-从+0+开始学习+GitHub+系列.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1dakSbdxFubYb_lNoApeaqw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：qbqg
+从+0+开始学习+GitHub+系列.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/ifHzvkxecla)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1dakSbdxFubYb_lNoApeaqw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：qbqg
 
-完全学会GITGITHUBGITSERVER的24堂课.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/12Hk4dMkfkE1L0WERrEa-qg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：jbpj
+完全学会GITGITHUBGITSERVER的24堂课.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/ij3V8kxedhc)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/12Hk4dMkfkE1L0WERrEa-qg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：jbpj
+
 
 ## Hadoop
 
