@@ -202,47 +202,48 @@ SpringCloud与Docker微服务架构实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速�
 
 ## Elasticsearch
 
-BetterELK,新浪实时日志分析服务进化.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1uUxY9AtKQEy-if3fKkhK4g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：kfgc
+BetterELK,新浪实时日志分析服务进化.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iP88Ukxd2wf)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1uUxY9AtKQEy-if3fKkhK4g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：kfgc
 
-elasticsearch-guide-chinese.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Df0xspbMMVJn20-C522niw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：baxm
+Elasticsearch-guide-chinese.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/isNeDkxd30j)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Df0xspbMMVJn20-C522niw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：baxm
 
-elasticsearch-the-definitive-guide-cn.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Td3Y7k0gQpL4jpQfmc05uw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：yrfs
+Elasticsearch-the-definitive-guide-cn.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iuT60kxd38h)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Td3Y7k0gQpL4jpQfmc05uw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：yrfs
 
-Elasticsearch6.1官方入门教程.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1MXfjtz5ynkY_u08UDOCaLw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：knfe
+Elasticsearch6.1官方入门教程.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iu6Jokxd2yh)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1MXfjtz5ynkY_u08UDOCaLw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：knfe
 
-Elasticsearch大数据搜索引擎.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1j4K2lZpt7ywpjo-cyodlyg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：mxuu
+Elasticsearch大数据搜索引擎.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iCJ3Dkxd8mb)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1j4K2lZpt7ywpjo-cyodlyg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：mxuu
 
-Elasticsearch分布式大数据搜索.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1AHxsGuZJFXDxZoGjOcBXmg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：bytq
+Elasticsearch分布式大数据搜索.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iOGbbkxdade)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1AHxsGuZJFXDxZoGjOcBXmg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：bytq
 
-Elasticsearch服务器开发（第二版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1LcjmOWCBbLfEPT_woN1GuA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：xatu
+Elasticsearch服务器开发（第二版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iCU5Ykxdb7e)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1LcjmOWCBbLfEPT_woN1GuA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：xatu
 
-Elasticsearch集成Hadoop最佳实践.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1bOwD5PBqfD31NJfWFXso3g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：tfcp
+Elasticsearch集成Hadoop最佳实践.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iG4M4kxdcha)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1bOwD5PBqfD31NJfWFXso3g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：tfcp
 
-Elasticsearch技术解析与实践.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1x5QOR_wrxC5BV9JorAmxtg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：jews
+Elasticsearch技术解析与实践.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/ija6Bkxdckd)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1x5QOR_wrxC5BV9JorAmxtg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：jews
 
-Elasticsearch技术解析与实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1HdKY0kVDVzc6KKkvU8fK5Q)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：afay
+Elasticsearch技术解析与实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iunVckxdgkh)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1HdKY0kVDVzc6KKkvU8fK5Q)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：afay
 
-ElasticSearch可扩展的开源弹性搜索解决方案.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/12mH096foYT5y4YWsHFlSeA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：mxjr
+ElasticSearch可扩展的开源弹性搜索解决方案.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/i1APTkxdhgj)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/12mH096foYT5y4YWsHFlSeA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：mxjr
 
-Elasticsearch权威指南（中文版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1VV9O_660sDBo_YB62QYx-w)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：xwtf
+Elasticsearch权威指南（中文版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iScNMkxdhtc)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1VV9O_660sDBo_YB62QYx-w)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：xwtf
 
-ElasticSearch入门.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1BzO1GTBbHSmwca68Vdlbmw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：hukk
+ElasticSearch入门.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iTWCxkxdi4d)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1BzO1GTBbHSmwca68Vdlbmw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：hukk
 
-Elasticsearch实战inaction中文版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1BpK6r6MW29zb46lH_wG0yA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：pveu
+Elasticsearch实战inaction中文版.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/ipDJIkxx1re)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1BpK6r6MW29zb46lH_wG0yA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：pveu
 
-SpringBoot集成Elasticsearch7.4实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/16GhqhpmVUfKHLll3z_dnlQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：tewy
+SpringBoot集成Elasticsearch7.4实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/ip2uYkxdidc)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/16GhqhpmVUfKHLll3z_dnlQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：tewy
 
-大数据搜索与日志挖掘及可视化方案++ELK+Stack++Elasticsearch+Logstash+Kibana++第二版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Q1DrL8kopQDJPvTESqy9Sw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：vudd
+大数据搜索与日志挖掘及可视化方案++ELK+Stack++Elasticsearch+Logstash+Kibana++第二版.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/i3E26kxxjqb)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Q1DrL8kopQDJPvTESqy9Sw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：vudd
 
-深入理解ElasticSearch.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1A8_KVHXsuFe6u--XZgL6eA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：qxpf
+深入理解ElasticSearch.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/izKODkxdrwf)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1A8_KVHXsuFe6u--XZgL6eA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：qxpf
 
-实战Elasticsearch、Logstash、Kibana++分布式大数据搜索与日志挖掘及可视化解决方案.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1xnY8s6i7hI8bzRmy38s-sQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：ncce
+实战Elasticsearch、Logstash、Kibana++分布式大数据搜索与日志挖掘及可视化解决方案.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iAwXbkxdpyf)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1xnY8s6i7hI8bzRmy38s-sQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：ncce
 
-数据分析与决策技术丛书ELKstack权威指南,饶琛琳编著,P394.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Rugsxq8mfnK_tEtFB80Q4w)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：pgab
+数据分析与决策技术丛书ELKstack权威指南,饶琛琳编著,P394.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/i4AjAkxdila)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Rugsxq8mfnK_tEtFB80Q4w)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：pgab
 
-搜索引擎核心技术与实现（基于Lucene和Solr）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1y4THdUHLG8WTa5ipYTovKA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：ffjd
+搜索引擎核心技术与实现（基于Lucene和Solr）.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/i2KLFkxdinc)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1y4THdUHLG8WTa5ipYTovKA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：ffjd
 
-最新版Elasticsearch调优搜索速度.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1ewPAjJ6zWPeBHLPQx66QVQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：trqt
+最新版Elasticsearch调优搜索速度.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iNXvZkxdjrc)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1ewPAjJ6zWPeBHLPQx66QVQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：trqt
+
 
 ## Git
 
