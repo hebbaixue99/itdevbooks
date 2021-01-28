@@ -349,105 +349,102 @@ Head First 设计模式（中文版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下�
 
 ## Java
 
-21天学通Java.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1KcnqkVnoSiiOkZmkzYNGfQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：jeyg
+21天学通Java.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iwPMNkxfsde)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1KcnqkVnoSiiOkZmkzYNGfQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：jeyg
 
-Effective+Java+中文第二版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/13qz0iXAQdfv-7FiXiodIww)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：xqgg
+Effective+Java+中文第二版.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/i4R1ikxfsub)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/13qz0iXAQdfv-7FiXiodIww)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：xqgg
 
-EffectiveJava（中文版第三版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1JCdDt9dMSxIT01jBSBRDIg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：cpen
+EffectiveJava（中文版第三版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iEXrIkxgepi)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1JCdDt9dMSxIT01jBSBRDIg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：cpen
 
-Java8函数式编程.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1_-85Wx3LYJHSktFYCH_hUw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：pjan
+Java8函数式编程.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/igZEhkxgc2d)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1_-85Wx3LYJHSktFYCH_hUw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：pjan
 
-Java8中的炫酷特性和Java9中的新特性-杨晓峰.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1O6euAamgF3Y7v1JnfGyjjQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：jkwc
+Java8中的炫酷特性和Java9中的新特性-杨晓峰.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iDzpOkxgfkj)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1O6euAamgF3Y7v1JnfGyjjQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：jkwc
 
-JavaNIO（中文版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/139eXkJl2jtagTZm-ROxL7A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：tpaq
+JavaNIO（中文版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iWsplkxgfnc)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/139eXkJl2jtagTZm-ROxL7A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：tpaq
 
-JavaOOP-发布版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1vubz7vJybbosl3iLFWPhCg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：pkmp
+JavaOOP-发布版.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iRe3ekxgg7c)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1vubz7vJybbosl3iLFWPhCg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：pkmp
 
-JavaRESTfulWebService实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1O7km01HayjzW_yYRCyR3gw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：cfju
+JavaRESTfulWebService实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/i1xFVkxghvc)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1O7km01HayjzW_yYRCyR3gw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：cfju
 
-JavaServlet和jsp学习指南.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1muJPmcUcjV4k4wBQqPT8yA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：daqb
+JavaServlet和jsp学习指南.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/ia4bkkxgkqf)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1muJPmcUcjV4k4wBQqPT8yA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：daqb
 
-JavaTCPIPSocket编程（原书第二版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/197jWtCamqIFQdqiPcrQCew)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：vynk
+JavaTCPIPSocket编程（原书第二版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iFwCJkxgnna)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/197jWtCamqIFQdqiPcrQCew)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：vynk
 
-JavaWEB服务.构建与运行.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1z1XCRAtblPvbgt9qN8CMVQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：gcrr
+JavaWEB服务.构建与运行.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/i2MGbkxgo0d)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1z1XCRAtblPvbgt9qN8CMVQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：gcrr
 
-JavaWeb企业项目实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1iZGKcMOmQmMYuxUfAkJEbA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：aumu
+JavaWeb企业项目实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iNjuGkyordi)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1iZGKcMOmQmMYuxUfAkJEbA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：aumu
 
-JavaWeb整合开发王者归来.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1U2pDBLUyYqvIjo7w7gRQZg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：fprs
+JavaWeb整合开发王者归来.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1U2pDBLUyYqvIjo7w7gRQZg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：fprs
 
-Java编程的逻辑.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1PiN48omo9JLLzb63sP0Bkw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：xtxs
+Java编程的逻辑.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/ijGyakxgtwf)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1PiN48omo9JLLzb63sP0Bkw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：xtxs
 
-Java编程思想第三版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1p_E22a4VUpWVYgzqMmfDIA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：mnpq
+Java编程思想第三版.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iJiGqkxhdeh)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1p_E22a4VUpWVYgzqMmfDIA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：mnpq
 
-Java编辑思想（第四版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1eLEyRlUpxZqp5_ISdZu86w)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：kfaj
+Java编辑思想（第四版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iGM8Fkxhdjc)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1eLEyRlUpxZqp5_ISdZu86w)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：kfaj
 
-Java程序员修炼之道.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1zhIZCnmLFzbBCxtwtxKltg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：fpea
+Java程序员修炼之道.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iHblakxhfmh)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1zhIZCnmLFzbBCxtwtxKltg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：fpea
 
-Java从小白到大牛精简版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Kd7gdxnNtOzHDLpLYxk7vA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：kaqv
+Java从小白到大牛精简版.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iapU1kxhfqb)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Kd7gdxnNtOzHDLpLYxk7vA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：kaqv
 
-Java典型模块与项目实战大全.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1x_SsiWi2OLw3HF1CRWOJSw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：assw
+Java典型模块与项目实战大全.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/ie7Xvkxhjsh)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1x_SsiWi2OLw3HF1CRWOJSw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：assw
 
-Java关键技术JSP与JDBC应用详解.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1RImaM6qZcRlN_ueUN2MaEQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：tscq
+Java关键技术JSP与JDBC应用详解.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iWXqykxhlri)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1RImaM6qZcRlN_ueUN2MaEQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：tscq
 
-Java核心技术卷一基础知识第10版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1urz-kz246b7KJEMREYIJyA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：cjmy
+Java核心技术卷一基础知识第10版.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iJTXAkxhngj)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1urz-kz246b7KJEMREYIJyA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：cjmy
 
-Java核心技术卷二高级特性原书第10版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1biNDg0wY9NhzPEbYYFqKhA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：cjzp
+Java核心技术卷二高级特性原书第10版.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iVCbnkyoaha)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1biNDg0wY9NhzPEbYYFqKhA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：cjzp
 
-Java基础概念.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1l8iKRzjGPYBXwrTm281LPA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：wkfu
+Java基础概念.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iaqL3kxhnib)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1l8iKRzjGPYBXwrTm281LPA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：wkfu
 
-Java基础教程.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1wrCF3ttjvPTmMavEx27UMg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：rrma
+Java基础教程.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iqFPekxhnmf)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1wrCF3ttjvPTmMavEx27UMg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：rrma
 
-Java开发之道.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1wgivWU-eJuvzXC3DILpEzA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：rvpq
+Java开发之道.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/i2vEZkxhs6j)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1wgivWU-eJuvzXC3DILpEzA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：rvpq
 
-Java数据库应用基础].pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/17DQzOJFnaXQ2M6RWNvzo8A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：fawd
+Java数据库应用基础.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iEJ8Ckxht7g)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/17DQzOJFnaXQ2M6RWNvzo8A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：fawd
 
-Java特种兵上.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1iGdCv9y6HCfMwA8QKbsmTA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：tmgf
+Java特种兵上.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iJTuVkxhwqd)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1iGdCv9y6HCfMwA8QKbsmTA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：tmgf
 
-Java图形与网络游戏开发.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1B0XNM5dr7tijN-CMMKNOUg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：fjjb
+Java图形与网络游戏开发.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iayknkxhx6j)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1B0XNM5dr7tijN-CMMKNOUg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：fjjb
 
-Java图形与网络游戏开发].pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1mLR4gmpMVkLRaDMVIHAhBQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：njjn
+Java网络应用开发.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/ia9AHkxi1jg)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1OS8fQKKsjgcHd23oRIJ0Jw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：bdxn
 
-Java网络应用开发.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1OS8fQKKsjgcHd23oRIJ0Jw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：bdxn
+Java与模式（清晰书签版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/ik4Aqkxi1zc)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1qbwz2PMClWo11Eb1zrl1EQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：asfv
 
-Java与模式（清晰书签版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1qbwz2PMClWo11Eb1zrl1EQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：asfv
+Java语言程序设计-进阶篇（原书第八版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iyQI3kxi2fi)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1GdX636VmycTU9t-4OgbgIQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：nqnn
 
-Java语言程序设计-进阶篇（原书第八版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1GdX636VmycTU9t-4OgbgIQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：nqnn
+Web安全开发指南.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iOSPgkxi2jc)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1h5fZHvtNbodM7hZbrpRLCw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：rhsj
 
-Web安全开发指南.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1h5fZHvtNbodM7hZbrpRLCw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：rhsj
+Web性能测试实战详解+Web开发典藏大系.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iTd6Akxi4kf)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1zC2VwRjNr8mT69ENmNUJ0Q)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：bsct
 
-Web性能测试实战详解+Web开发典藏大系.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1zC2VwRjNr8mT69ENmNUJ0Q)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：bsct
+Web应用安全权威指南.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iEc6nkxi5of)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/17YmTumIWjckrqBcP6Gu4RA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：ydkm
 
-Web应用安全权威指南.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/17YmTumIWjckrqBcP6Gu4RA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：ydkm
+Web应用开发.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/i72VPkxi7mf)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1n4pmkCkYbk9cDFGvMLW1HQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：sfqe
 
-Web应用开发.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1n4pmkCkYbk9cDFGvMLW1HQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：sfqe
+编写高效优雅Java程序.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iqkHBkxi7oh)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/111RMs5dIwOt9I09aE4iMhA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：nskv
 
-编写高效优雅Java程序.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/111RMs5dIwOt9I09aE4iMhA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：nskv
+菜鸟成长之路—Java程序员职场全攻略.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iAbu0kxi9di)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1bcnbsfSP-agoIFKUUPwgzQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：vxjx
 
-菜鸟成长之路—Java程序员职场全攻略.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1bcnbsfSP-agoIFKUUPwgzQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：vxjx
+大型网站系统与JAVA中间件实践.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iqHZdkxig4b)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1MliFXVP-mjZoMWs_RpANXA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：hdbx
 
-大型网站系统与JAVA中间件实践.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1MliFXVP-mjZoMWs_RpANXA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：hdbx
+分布式Java应用基础与实践.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/i5ci2kxihcf)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1X2x4RA1D2-Ig8vcr1KOrqg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：dbeu
 
-大型网站系统与JAVA中间件实践（）.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1GkuZ92W4eIIoiL2D0bFAgg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：jeam
+疯狂Java讲义.pdf&nbsp;&nbsp;&nbsp;&nbsp;nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1fYIQdDNdncR3JyxAr_x-dw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：hejg
 
-分布式Java应用基础与实践.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1X2x4RA1D2-Ig8vcr1KOrqg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：dbeu
+高性能响应式Web开发实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/i9wUOkxiife)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1EcPNoFTVUtHePBWePLm7tw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：bafb
 
-疯狂Java讲义.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1fYIQdDNdncR3JyxAr_x-dw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：hejg
+构建高性能Web站点.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/icEMlkxijkf)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/13gYFTc0bRJvR87nY51slqQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：ndfc
 
-高性能响应式Web开发实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1EcPNoFTVUtHePBWePLm7tw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：bafb
+解密搜索引擎技术实战Java精华版.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iX3Z8kxikne)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Wjiwni7ABH2R1jUIfvrHUQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：susc
 
-构建高性能WEB站点.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/13gYFTc0bRJvR87nY51slqQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：ndfc
+了不起的Nodejs将JavaScript进行到底.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iXFJkkxilyb)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1O8Aaw8iyWNwVrD6VN6mtQQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：xbbx
 
-解密搜索引擎技术实战Java精华版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Wjiwni7ABH2R1jUIfvrHUQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：susc
+零成本实现Web性能测试.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iUq4xkximsb)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1XS1Jy7fHc5koAkh9xbqcDw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：varj
 
-了不起的Nodejs将JavaScript进行到底.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1O8Aaw8iyWNwVrD6VN6mtQQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：xbbx
+码出高效：Java开发手册.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/i34i6kxirqj)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1hlLIkAJYIkmeFZuUFkmrOA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：fqxs
 
-零成本实现Web性能测试.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1XS1Jy7fHc5koAkh9xbqcDw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：varj
+深入分析JavaWeb技术内幕.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iuhbakxitgb)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/14QwWsW4jClVyL6SepaZrNg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：fbqt
 
-码出高效：Java开发手册.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1hlLIkAJYIkmeFZuUFkmrOA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：fqxs
+使用Java.Web服务构建SOA.pdf&nbsp;&nbsp;&nbsp;&nbsp;[不限速下载](https://itdevtools.lanzous.com/iyx8mkxiuab)✅&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1BsDNPiQs6Lml_UkPP6aUNQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：lof7
 
-深入分析JavaWeb技术内幕.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/14QwWsW4jClVyL6SepaZrNg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：fbqt
-
-使用Java.Web服务构建SOA.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1BsDNPiQs6Lml_UkPP6aUNQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：lof7
 
 ## Javascript
 
