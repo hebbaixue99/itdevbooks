@@ -391,6 +391,8 @@ Java关键技术JSP与JDBC应用详解.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[�
 
 Java核心技术卷一基础知识第10版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1urz-kz246b7KJEMREYIJyA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：cjmy
 
+Java核心技术卷二高级特性原书第10版.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1biNDg0wY9NhzPEbYYFqKhA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：cjzp
+
 Java基础概念.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1l8iKRzjGPYBXwrTm281LPA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：wkfu
 
 Java基础教程.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1wrCF3ttjvPTmMavEx27UMg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：rrma
